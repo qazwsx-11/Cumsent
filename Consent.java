@@ -21,6 +21,6 @@ public class Consent {
         System.out.println("cums in you");
     }
     public static void rape() {
-        System.out.println("Rapes you because you didnt give consent >:(");
+        System.out.println("Rapes and cums in you");
     }
 }
